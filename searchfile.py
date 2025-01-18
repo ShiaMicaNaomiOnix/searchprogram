@@ -26,7 +26,3 @@ def main():
                 data = k.read()
                 for keyword in keywords:
                     print(keyword, keyword in data)
-
-i
-  
-
